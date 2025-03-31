@@ -1,0 +1,11 @@
+{
+  "name": "tp-3",
+  "version": "1.0.0",
+  "description": "Primer tp de Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eitan Fridman y Alon Kanter",
+  "license": "ISC"
+}
